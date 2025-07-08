@@ -2,4 +2,4 @@
 ## Isabela Caroba
 - Repositório teste criado nas aulas do Programa Desenvolve para fins de estudo.
 ## Rafael Costa
-- Repositorio Clonado
+- Repositorio clonado pela Isabela na conta do namorado
